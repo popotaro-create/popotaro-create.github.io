@@ -11,6 +11,27 @@ input[type="submit"] {
   border-radius: 0;
 }
 
+@import url("https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@300;400;500;700;900&display=swap");
+input[type="submit"] {
+  -webkit-appearance: none;
+  border-radius: 0;
+}
+
+* {
+  margin: 0 !important;
+  padding: 0 !important;
+  box-sizing: border-box !important;
+}
+
+html, body {
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  display: block !important;
+  overflow-x: hidden !important;
+}
+
 html {
   box-sizing: border-box;
   -ms-overflow-style: scrollbar;
@@ -82,8 +103,8 @@ h5,
 p {
   line-height: 1.6em;
 }
-
-p {
+p, tr {
+  font-family: 'Zen Maru Gothic', sans-serif;
   font-size: 16px;
 }
 .container {
