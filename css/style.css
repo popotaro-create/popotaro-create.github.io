@@ -547,6 +547,7 @@ a.creema {
     width: 100%;
     max-width: 310px;
     margin-top: 20px;
+    padding: 20px 10px;
   }
 
   .favorite h2 {
