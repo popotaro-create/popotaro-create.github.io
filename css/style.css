@@ -97,6 +97,7 @@ p {
 p, tr {
   font-family: 'Zen Maru Gothic', sans-serif;
   font-size: 16px;
+  font-weight: 500;
 }
 .container {
   width: 100%;
