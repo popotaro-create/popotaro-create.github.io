@@ -659,6 +659,11 @@ a.creema {
     margin-bottom: 10px;
   }
 
+  .profile tr,
+  .favorite p {
+    font-size: 16px;
+  }
+
 }
 /*----------------------------------
 JS用
